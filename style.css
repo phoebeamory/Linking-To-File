@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: #32b3b3;
+}
